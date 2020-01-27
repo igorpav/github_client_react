@@ -6,7 +6,6 @@ import MyProfile from "./MyProfile";
 import RepositorySearch from "./Search/RepositorySearch";
 import UserSearch from "./Search/UserSearch";
 import GET_USER_INFO from "./Graphql/user";
-//import ProfilePageTest from "./Pages/ProfilePageTest"
 
 function TabPanel(props) {
   const {children, value, index, ...other} = props;
